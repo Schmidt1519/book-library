@@ -1,0 +1,10 @@
+.titlebar-nav {
+    background-color: lightblue;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    padding-bottom: 0.2em;
+    padding-left: 1em;
+}
