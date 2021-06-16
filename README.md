@@ -1,2 +1,2 @@
 # book-library
-first React.js project
+dCC first React.js tutorial project
